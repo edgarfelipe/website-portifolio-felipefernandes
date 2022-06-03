@@ -1,11 +1,12 @@
 ---
-title: 'Loading'
-subtitle: 'Loading'
-date: 'December 2019'
-order: 11
-iconName: 'gamepad-variant'
-background: '#fff'
+title: 'Fullture'
+subtitle: 'Full Stack Developer'
+date: 'Novembro 2021'
+order: 1
+iconName: 'fullture'
+background: '#000000'
 foreground: '#000'
 ---
 
-loading
+Inicio Novembro 2021 -
+Fim Outubro 2022

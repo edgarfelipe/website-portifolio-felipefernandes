@@ -94,10 +94,9 @@
     "name": "Lugares/Cidades a Visitar",
     "goals": [
       { "name": "João Pessoa, Paraiba", "type": 2, "edits": [{ "date": "Verão 2021" }] },
-      { "name": "Recife, Pernambuco", "type": 2, "edits": [{ "date": "Verão 2007" }] },
-      { "name": "São Paulo, Brasil", "type": 1 },
-      { "name": "Rio de Janeiro, Brasil", "type": 1 },
+      { "name": "Amsterdam, Netherlands", "type": 2, "edits": [] },
       { "name": "Lisboa, Portugal", "type": 2, "edits": [] },
+      { "name": "London, England", "type": 1 },
       { "name": "New York City, USA", "type": 1 },
       { "name": "Los Angeles, USA", "type": 1 }
     ]

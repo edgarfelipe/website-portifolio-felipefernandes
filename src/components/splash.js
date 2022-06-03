@@ -64,10 +64,10 @@ class Splash extends Component {
         <div className={classes.container}>
           <ProfileImage className={classes.picture} />
           <Typography variant='h1' className={classnames(classes.text, classes.title)}>
-            Diogo Correia
+            Felipe Fernandes
           </Typography>
           <Typography variant='h4' className={classnames(classes.text, classes.subtitle)}>
-            Student, Developer &amp; Runner
+            Student, Developer &amp; Gaming
           </Typography>
           <div className={classes.icons}>
             <Icon

@@ -1,11 +1,11 @@
 ---
-title: Loading
-subtitle: Loading
-date: 'July 2016'
+title: Udemy
+subtitle: JavaScript e TypeScript do básico ao avançado
+date: 'Janeiro 2022'
 order: 2
-iconName: 'account-group'
+iconName: 'udemy'
 background: '#fff'
 foreground: '#000'
 ---
 
-loading
+Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns

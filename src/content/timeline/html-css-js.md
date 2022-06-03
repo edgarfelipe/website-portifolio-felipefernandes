@@ -1,11 +1,11 @@
 ---
 title: 'Iniciando Estudos em HTML, CSS e JavaScript..'
 subtitle: ''
-date: '2021'
-order: 0
+date: 'Janeiro 2022'
+order: 2
 iconName: 'java'
 background: '#ffffff'
 foreground: '#fff'
 ---
 
-loading
+Criando uma landing page https://iphotecrn.netlify.app

@@ -107,7 +107,7 @@ const Footer = ({ homepage }) => {
                 )}
               </Typography>
               <Typography variant='body2' component='li' className={classes.sitemapLink}>
-                <Link to='/impossiblelist'>Impossible List</Link>
+                <Link to='/impossiblelist'>Metas</Link>
               </Typography>
             </ul>
           </Grid>

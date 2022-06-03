@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Diogo Torres Correia`,
-    shortTitle: `Diogo Correia`,
-    description: `Hey, I'm Diogo Torres Correia from Portugal. I love programming, running, taking photos and learning new things!`,
+    title: `Felipe Fernandes`,
+    shortTitle: `Felipe Fernandes`,
+    description: `Hey, I'm Felipe Fernandes from Brazil. I love programming, gaming, taking photos and learning new things!`,
     author: `@diogotc2002`,
     siteUrl: 'https://diogotc.com',
   },

@@ -1,8 +1,8 @@
-# Diogo Correia's Personal Website
+# Felipe Fernandes's Personal Website
 
-![Website Screenshot](https://github.com/diogotcorreia/dtc-website/blob/master/.gh/site_screenshot.png?raw=true)
+![Website Screenshot]()
 
-You can find a live version at [diogotc.com](https://diogotc.com).
+You can find a live version at [diogotc.com](https://felipefernandes.dev.br).
 
 ## Frameworks and packages used
 

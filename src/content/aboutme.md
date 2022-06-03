@@ -1,5 +1,7 @@
-**Hey!**
+**Ei!**
 
-I'm Felipe Fernandes from Brazil!  
-I love programming, as well as running, taking photos and learning new things!  
-Feel free to get in touch or take a look at my past work below.
+
+
+Eu sou Felipe Fernandes, Brasileiro!
+Amo programar, além de jogar games, treinar musculação e aprender coisas novas!
+Sinta-se à vontade para entrar em contato ou dar uma olhada nos meus trabalhos anteriores abaixo.

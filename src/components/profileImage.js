@@ -5,7 +5,7 @@ const Image = ({ className }) => (
   <StaticImage
     src='../images/profile-fullres-cropped.jpg'
     className={className}
-    alt='Diogo Correia'
+    alt='Felipe Fernandes'
     width={100}
     height={100}
   />

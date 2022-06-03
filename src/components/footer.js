@@ -60,13 +60,13 @@ const Footer = ({ homepage }) => {
               <Typography variant='body2' component='li'>
                 Email:{' '}
                 <span className={classes.lightText}>
-                  <a href='mailto:me@diogotc.com' className='umami--click--mail-social-footer'>
-                    me@diogotc.com
+                  <a href='mailto:felipedevfullstack@gmail.com' className='umami--click--mail-social-footer'>
+                    felipedevfullstack@gmail.com
                   </a>
                 </span>
               </Typography>
               <Typography variant='body2' component='li'>
-                Discord: <span className={classes.lightText}>DiogoCorreia#7295</span>
+                Discord: <span className={classes.lightText}>felipejokerbr#8053</span>
               </Typography>
               <Typography variant='body2' component='li'>
                 Twitter:{' '}
@@ -77,7 +77,7 @@ const Footer = ({ homepage }) => {
                     target='_blank'
                     className='umami--click--twitter-social-footer'
                   >
-                    @diogotc2002
+                    @PhelipePegado
                   </a>
                 </span>
               </Typography>
@@ -116,11 +116,11 @@ const Footer = ({ homepage }) => {
       <div className={classes.credits}>
         <Container className={classes.footerBottom}>
           <Typography variant='body2' className={classes.creditsText}>
-            © 2017-{new Date().getFullYear()} Diogo Torres Correia
+            © 2022-{new Date().getFullYear()} Felipe Fernandes
           </Typography>
           <Typography variant='body2'>
             <a
-              href='https://github.com/diogotcorreia/dtc-website'
+              href='https://github.com/edgarfelipe/dtc-website'
               rel='noopener noreferrer'
               target='_blank'
               className='umami--click--source-code-footer'

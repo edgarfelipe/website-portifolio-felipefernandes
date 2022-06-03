@@ -67,48 +67,48 @@ class Splash extends Component {
             Felipe Fernandes
           </Typography>
           <Typography variant='h4' className={classnames(classes.text, classes.subtitle)}>
-            Student, Developer &amp; Gaming
+            Student, Developer &amp; Runner
           </Typography>
           <div className={classes.icons}>
             <Icon
-              tooltip='diogotcorreia'
+              tooltip='edgarfelipe'
               component={<GitHubIcon className={classes.icon} />}
-              href='https://github.com/diogotcorreia'
+              href='https://github.com/edgarfelipe'
               analyticsEvent='github'
             />
             <Icon
-              tooltip='@diogotc2002'
+              tooltip='@edgarfernandes0'
               component={<TwitterIcon className={classes.icon} />}
-              href='https://twitter.com/diogotc2002'
+              href='https://twitter.com/phelipepegado'
               analyticsEvent='twitter'
             />
             <Icon
-              tooltip='DiogoCorreia#7295'
+              tooltip='felipejokerbr#8053'
               component={<DiscordIcon className={classes.icon} />}
               analyticsEvent='discord'
             />
             <Icon
-              tooltip='Diogo Correia'
+              tooltip='Felipe Fernandes'
               component={<StravaIcon className={classes.icon} />}
-              href='https://www.strava.com/athletes/22762930'
+              href='https://www.strava.com/athletes/2276293011'
               analyticsEvent='strava'
             />
             <Icon
-              tooltip='rexcantor64'
+              tooltip='felipejokerbr'
               component={<SteamIcon className={classes.icon} />}
-              href='https://steamcommunity.com/id/rexcantor64'
+              href='https://steamcommunity.com/id/felipejokerbr'
               analyticsEvent='steam'
             />
             <Icon
-              tooltip='@diogotc2002'
+              tooltip='@edfernandes0'
               component={<InstagramIcon className={classes.icon} />}
-              href='https://www.instagram.com/diogotc2002/'
+              href='https://www.instagram.com/edfernandes0/'
               analyticsEvent='instagram'
             />
             <Icon
-              tooltip='me@diogotc.com'
+              tooltip='felipedevfullstack@gmail.com'
               component={<MailIcon className={classes.icon} />}
-              href='mailto:me@diogotc.com'
+              href='felipedevfullstack@gmail.com'
               analyticsEvent='mail'
             />
           </div>

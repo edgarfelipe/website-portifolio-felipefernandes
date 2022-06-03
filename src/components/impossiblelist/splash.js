@@ -49,7 +49,7 @@ const Splash = () => {
           Impossible List
         </Typography>
         <Typography variant='h4' className={classnames(classes.text, classes.subtitle)}>
-          By Diogo Correia
+          By Felipe Fernandes
         </Typography>
       </div>
     </div>

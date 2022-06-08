@@ -1,13 +1,11 @@
 ---
-name: Livraria e Papelaria Espaço
+name: Landing Page
 icon: ./lpe.png
-order: 2
-link: https://lpespaco.pt
-calltoaction: Visit Website
+order: 1
+link: https://iphotecrn.netlify.app
+calltoaction: Visite Website
 background: '#273377'
 color: '#fff'
 ---
 
-Livraria e Papelaria Espaço is a local bookstore in my area.
-I've help built their internet presence by coding a webstore as well as providing hosting and email services.  
-Furthermore, I've coded some tools that helped speed labour-intensive tasks in-store.
+Landing Page criada para exercita os conhecimentos em HTML, CSS e JavaScript

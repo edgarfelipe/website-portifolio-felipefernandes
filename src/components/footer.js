@@ -94,7 +94,7 @@ const Footer = ({ homepage }) => {
                     About me
                   </AnchorLink>
                 ) : (
-                  <Link to='/#aboutme'>About me</Link>
+                  <Link to='/#aboutme'>Sobre mim</Link>
                 )}
               </Typography>
               <Typography variant='body2' component='li' className={classes.sitemapLink}>

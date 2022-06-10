@@ -1,7 +1,7 @@
 ---
 title: 'Udemy'
 subtitle: 'JavaScript e TypeScript do básico ao avançado'
-date: 'January 2019'
+date: 'Janeiro 2022'
 order: 3
 iconName: 'udemy'
 background: '#fff'

@@ -2,7 +2,7 @@
 
 ![Website Screenshot]()
 
-You can find a live version at [diogotc.com](https://felipefernandes.dev.br).
+You can find a live version at [felipefernandes.dev.br](https://felipefernandes.dev.br).
 
 ## Frameworks and packages used
 

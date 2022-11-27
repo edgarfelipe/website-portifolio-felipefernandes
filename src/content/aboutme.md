@@ -1,7 +1,7 @@
-**Ei!**
+**Hey!**
 
 
 
-Eu sou Felipe Fernandes, Brasileiro!
-Amo programar, além de jogar games, treinar musculação e aprender coisas novas!
-Sinta-se à vontade para entrar em contato ou dar uma olhada nos meus trabalhos anteriores abaixo.
+I'm Felipe Fernandes, Brazilian!
+I love to program, besides playing games, training bodybuilding and learning new things!
+Feel free to get in touch or take a look at my previous work below.

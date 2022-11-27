@@ -1,10 +1,10 @@
 [
   {
-    "name": "Metas de tecnologia",
+    "name": "technology goals",
     "goals": [
       {
         "type": 1,
-        "name": "cria meu Portfolio",
+        "name": "create my portfolio",
         "edits": [{ "date": "2022-05-15" }] 
       },
       {
@@ -25,11 +25,11 @@
     ]
   },
   {
-    "name": "Objetivos de saúde/esportes",
+    "name": "Health/sports goals",
     "goals": [
       {
         "type": 1,
-        "name": "Correr 5km",
+        "name": "Run 5km",
         "edits": [
           {
             "date": "2019-05-27",
@@ -44,7 +44,7 @@
         "subgoals": [6000, 4200]
       },
       {
-        "name": "Correr 10km",
+        "name": "Run 10km",
         "type": 1,
         "edits": [
           { "date": "2018-04-06", "value": 204.7 },
@@ -70,28 +70,28 @@
     ]
   },
   {
-    "name": "Objetivos \"Insano\" divertidos",
+    "name": "Fun \"Insane\" goals",
     "goals": [
-      { "name": "Mora em uma Ilha", "type": 1 },
-      { "name": "Possuir um Tesla", "type": 1 }
+      { "name": "live on an island", "type": 1 },
+      { "name": "Own a Tesla", "type": 1 }
     ]
   },
   {
-    "name": "Eventos para participar",
+    "name": "Events to attend",
     "goals": [
       { "name": "Loading", "type": 1, "edits": [] },
       { "name": "Loading", "type": 1, "edits": [] }
     ]
   },
   {
-    "name": "Objetivos de jogo",
+    "name": "game objectives",
     "goals": [
-      { "name": "Alcança o Elo Diamante no League of Legends", "type": 1, "edits": [] },
-      { "name": "Monta o time full Wingeon PokexGames", "type": 1, "edits": [] }
+      { "name": "Reach Diamond Link in League of Legends", "type": 1, "edits": [] },
+      { "name": "Assemble the full Wingeon PokexGames team", "type": 1, "edits": [] }
     ]
   },
   {
-    "name": "Lugares/Cidades a Visitar",
+    "name": "Places/Cities to Visit",
     "goals": [
       { "name": "João Pessoa, Paraiba", "type": 2, "edits": [{ "date": "Verão 2021" }] },
       { "name": "Lisboa, Portugal", "type": 2, "edits": [] },

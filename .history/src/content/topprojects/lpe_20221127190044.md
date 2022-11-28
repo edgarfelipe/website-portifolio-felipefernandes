@@ -8,4 +8,4 @@ background: '#273377'
 color: '#fff'
 ---
 
-Landing Page created to exercise knowledge in HTML, CSS and JavaScript
+Landing Page criada para exercita os conhecimentos em HTML, CSS e JavaScript

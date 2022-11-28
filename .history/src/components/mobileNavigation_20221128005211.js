@@ -87,7 +87,7 @@ class MobileNavigation extends Component {
               <ListItemIcon>
                 <ImpossibleListIcon />
               </ListItemIcon>
-              <ListItemText>Goals</ListItemText>
+              <ListItemText>Metas</ListItemText>
             </ListItem>
           </List>
         </Drawer>

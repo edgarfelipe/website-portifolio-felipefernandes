@@ -59,7 +59,7 @@ const Header = ({ siteTitle, homepage }) => {
             Portfolio
           </Button>
           <Button component={Link} to='/impossiblelist' color='inherit'>
-            Goals
+            Metas
           </Button>
         </Hidden>
       </Toolbar>

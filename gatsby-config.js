@@ -3,8 +3,8 @@ module.exports = {
     title: `Felipe Fernandes`,
     shortTitle: `Felipe Fernandes`,
     description: `Hey, I'm Felipe Fernandes from Brazil. I love programming, gaming, taking photos and learning new things!`,
-    author: `@diogotc2002`,
-    siteUrl: 'https://diogotc.com',
+    author: `@edfernandes0`,
+    siteUrl: 'https://felipefernandes.dev.br',
   },
   plugins: [
     `gatsby-plugin-top-layout`,
@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Diogo Torres Correia`,
-        short_name: `Diogo Correia`,
+        name: `Edgar Felipe Pegado Fernandes`,
+        short_name: `Felipe Fernandes`,
         start_url: `/`,
         background_color: `#1b1b1b`,
         theme_color: `#1b1b1b`,
@@ -60,7 +60,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://diogotc.com',
+        host: 'https://felipefernandes.dev.br',
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },

@@ -9,3 +9,4 @@ You can find a live version at [felipefernandes.dev.br](https://felipefernandes.
 - [react-tsparticles](https://github.com/matteobruni/tsparticles)
 - [react-vertical-timeline-component](https://github.com/stephane-monnot/react-vertical-timeline)
 - ... e mais!
+

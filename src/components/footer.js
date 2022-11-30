@@ -94,7 +94,7 @@ const Footer = ({ homepage }) => {
                     About me
                   </AnchorLink>
                 ) : (
-                  <Link to='/#aboutme'>Sobre mim</Link>
+                  <Link to='/#aboutme'>About me</Link>
                 )}
               </Typography>
               <Typography variant='body2' component='li' className={classes.sitemapLink}>
@@ -107,7 +107,7 @@ const Footer = ({ homepage }) => {
                 )}
               </Typography>
               <Typography variant='body2' component='li' className={classes.sitemapLink}>
-                <Link to='/impossiblelist'>Metas</Link>
+                <Link to='/impossiblelist'>Goals</Link>
               </Typography>
             </ul>
           </Grid>

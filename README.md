@@ -1,9 +1,4 @@
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of d16a76e (master)
 Você pode encontrar uma versão ao vivo em [felipefernandes.dev.br](https://felipefernandes.dev.br).
 
 ## Frameworks e pacotes usados
@@ -13,4 +8,4 @@ Você pode encontrar uma versão ao vivo em [felipefernandes.dev.br](https://fel
 - [react-tsparticles](https://github.com/matteobruni/tsparticles)
 - [react-vertical-timeline-component](https://github.com/stephane-monnot/react-vertical-timeline)
 - ... e mais!
->>>>>>> parent of d16a76e (master)
+

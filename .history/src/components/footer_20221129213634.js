@@ -72,7 +72,7 @@ const Footer = ({ homepage }) => {
                 Twitter:{' '}
                 <span className={classes.lightText}>
                   <a
-                    href='https://twitter.com/PhelipePegado'
+                    href='https://twitter.com/phelipe'
                     rel='noopener noreferrer'
                     target='_blank'
                     className='umami--click--twitter-social-footer'

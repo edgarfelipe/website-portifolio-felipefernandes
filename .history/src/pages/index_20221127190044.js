@@ -46,7 +46,7 @@ const IndexPage = ({ data }) => {
       <Box className={classes.section}>
         <Container>
           <Typography className={classes.subsectionTitle} variant='h5'>
-            My projects
+            Meus projects
           </Typography>
           <TopProjects topProjects={data.topProjects.nodes} />
           <Typography className={classes.subsectionTitle} variant='h5'>

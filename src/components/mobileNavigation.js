@@ -63,7 +63,7 @@ class MobileNavigation extends Component {
               <ListItemIcon>
                 <AboutMeIcon />
               </ListItemIcon>
-              <ListItemText>Sobre mim</ListItemText>
+              <ListItemText>About me</ListItemText>
             </ListItem>
             <ListItem
               component={homepage ? AnchorLink : Link}
@@ -87,7 +87,7 @@ class MobileNavigation extends Component {
               <ListItemIcon>
                 <ImpossibleListIcon />
               </ListItemIcon>
-              <ListItemText>Metas</ListItemText>
+              <ListItemText>Goals</ListItemText>
             </ListItem>
           </List>
         </Drawer>

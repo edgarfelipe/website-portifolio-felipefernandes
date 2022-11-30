@@ -8,5 +8,5 @@ background: '#e91425'
 color: '#fff'
 ---
 
-Construa uma aplicação completa, do zero, com React JS
-Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta demanda para acessar as melhores oportunidades do mercado.
+Build a complete application from scratch with React JS
+In just one week you will master in practice one of the most used and highly demanded technologies to access the best opportunities on the market.

@@ -1,12 +1,12 @@
 ---
 title: 'Faculdade Estácio'
-subtitle: 'Análise e Desenvolvimento de Sistemas'
-date: 'Outubro 2021'
+subtitle: 'Analysis and systems development'
+date: 'October 2021'
 order: 0
 iconName: 'estacio'
 background: '#ffffff'
 foreground: '#fff'
 ---
 
-Inicio Outubro 2021 -
-Fim Dezembro 2023
+Beginning October 2021 -
+End December 2023

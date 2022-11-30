@@ -1,12 +1,12 @@
 ---
 title: 'Fullture'
-subtitle: 'Full Stack Develop'
-date: 'Novembro 2021'
+subtitle: 'Full Stack Developer'
+date: 'November 2021'
 order: 1
 iconName: 'fullture'
 background: '#000000'
 foreground: '#000'
 ---
 
-Inicio Novembro 2021 -
-Fim Outubro 2022
+Beginning November 2021 -
+End October 2022

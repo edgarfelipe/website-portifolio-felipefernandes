@@ -1,6 +1,6 @@
 # Felipe Fernandes Portifolio
 
-You can find a live version at [felipefernandes.dev.br](https://felipefernandes.dev.br).
+Você pode encontrar uma versão ao vivo em [felipefernandes.dev.br](https://felipefernandes.dev.br).
 
 ## Frameworks e pacotes usados
 

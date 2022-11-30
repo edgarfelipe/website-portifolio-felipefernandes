@@ -47,7 +47,7 @@ const Header = ({ siteTitle, homepage }) => {
             to='/#aboutme'
             color='inherit'
           >
-            About me
+            Sobre mim
           </Button>
           <Button
             component={homepage ? AnchorLink : Link}
@@ -59,7 +59,7 @@ const Header = ({ siteTitle, homepage }) => {
             Portfolio
           </Button>
           <Button component={Link} to='/impossiblelist' color='inherit'>
-            Goals
+            Metas
           </Button>
         </Hidden>
       </Toolbar>

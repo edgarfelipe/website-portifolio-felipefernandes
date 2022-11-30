@@ -1,9 +1,9 @@
 {
-  "name": "ffdv-website",
+  "name": "dtc-website",
   "private": true,
-  "description": "Felipe Fernandes's personal website",
+  "description": "Felipe 's personal website",
   "version": "3.0.0",
-  "author": "Felipe Fernandes <felipedevfullstack@gmail.com>",
+  "author": "Diogo Correia <me@diogotc.com>",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -56,11 +56,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/edgarfelipe/website-portifolio-felipefernandes"
+    "url": "https://github.com/diogotcorreia/dtc-website"
   },
   "bugs": {
-    "url": "https://github.com/edgarfelipe/website-portifolio-felipefernandes"
+    "url": "https://github.com/diogotcorreia/dtc-website/issues"
   }
 }
-
-

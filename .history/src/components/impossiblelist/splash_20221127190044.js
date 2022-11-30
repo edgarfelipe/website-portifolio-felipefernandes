@@ -46,7 +46,7 @@ const Splash = () => {
       <div className={classes.container}>
         <ProfileImage className={classes.picture} />
         <Typography variant='h1' className={classnames(classes.text, classes.title)}>
-          Goals
+          Metas
         </Typography>
         <Typography variant='h4' className={classnames(classes.text, classes.subtitle)}>
           Por Felipe Fernandes

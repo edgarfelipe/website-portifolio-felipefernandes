@@ -1,6 +1,9 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of d16a76e (master)
 Você pode encontrar uma versão ao vivo em [felipefernandes.dev.br](https://felipefernandes.dev.br).
 
 ## Frameworks e pacotes usados

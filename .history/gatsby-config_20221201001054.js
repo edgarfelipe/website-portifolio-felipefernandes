@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Edgar felipe Pegado Fernandes`,
-        short_name: `Felipe Fernandes`,
+        name: `Edgar `,
+        short_name: `Diogo Correia`,
         start_url: `/`,
         background_color: `#1b1b1b`,
         theme_color: `#1b1b1b`,

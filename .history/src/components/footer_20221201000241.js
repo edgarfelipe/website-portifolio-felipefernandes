@@ -120,7 +120,7 @@ const Footer = ({ homepage }) => {
           </Typography>
           <Typography variant='body2'>
             <a
-              href='https://github.com/edgarfelipe/website-portifolio-felipefernandes'
+              href='https://github.com/edgarfelipe/dtc-website'
               rel='noopener noreferrer'
               target='_blank'
               className='umami--click--source-code-footer'

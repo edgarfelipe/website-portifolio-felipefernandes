@@ -4,7 +4,7 @@ module.exports = {
     shortTitle: `Felipe Fernandes`,
     description: `Hey, I'm Felipe Fernandes from Brazil. I love programming, gaming, taking photos and learning new things!`,
     author: `@edfernandes0`,
-    siteUrl: 'https://felipefernandes.dev.br',
+    siteUrl: 'https://diogotc.com',
   },
   plugins: [
     `gatsby-plugin-top-layout`,
